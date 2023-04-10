@@ -1,2 +1,3 @@
-# codes
-this repo is all about codes
+# maven-project
+
+Simple Maven Project
